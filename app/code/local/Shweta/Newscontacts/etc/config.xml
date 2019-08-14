@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <frontend>
+        <routers>
+            <contacts>
+                <args>
+                    <modules>
+                         <Shweta_Newscontacts before="Mage_Contacts">Shweta_Newscontacts</Shweta_Newscontacts>
+                    </modules>
+                </args>
+            </contacts>
+        </routers>
+    </frontend>
+</config>

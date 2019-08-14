@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <name>shweta_newscontacts</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>With This Extension the news-letter Check-Box added with Contacts Us page. </summary>
+    <description>With This Extension the news-letter Check-Box added with Contacts Us page. &#xD;
+You can also easily customize the extension.</description>
+    <notes>Please review the extension.</notes>
+    <authors><author><name>Shweta Agarwal</name><user>sasmilyshweta</user><email>shweta@ptiwebtech.com</email></author></authors>
+    <date>2013-08-27</date>
+    <time>13:10:12</time>
+    <contents><target name="magelocal"><dir name="Shweta"><dir name="Newscontacts"><dir name="controllers"><file name="IndexController.php" hash="0c3db9704c83be08a2f8ecac659e4e33"/></dir><dir name="etc"><file name="config.xml" hash="c6536661cafb3e9eb40f54bde64ffa8a"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Shweta_Newscontacts.xml" hash="ee3bf49ec1edd818b7b3d3aa9ddfb4b6"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="template"><dir name="contacts"><file name="form.phtml" hash="d8153da2b16c01394adfc11578d04c74"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
