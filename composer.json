@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/shweta_newscontacts",
+    "name": "OpenMageModuleFostering\/shweta_newscontacts",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "With This Extension the news-letter Check-Box added with Contacts Us page. ",
     "authors": [
-    {
-        "name": "Shweta Agarwal",
-        "email": "shweta@ptiwebtech.com"
-    }
-],
+        {
+            "name": "Shweta Agarwal",
+            "email": "shweta@ptiwebtech.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
